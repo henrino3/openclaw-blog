@@ -1,5 +1,5 @@
 ---
-title: AI Agent Testing Patterns: 7 Bugs That Almost Cost Us Production
+title: 'AI Agent Testing Patterns: 7 Bugs That Almost Cost Us Production'
 slug: ai-agent-testing-patterns
 date: 2026-02-17
 author: Priya Sharma

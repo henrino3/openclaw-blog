@@ -1,5 +1,5 @@
 ---
-title: "The Hidden Costs of Not Using AI Agents for Data Entry and Reporting"
+title: 'The Hidden Costs of Not Using AI Agents for Data Entry and Reporting'
 slug: hidden-costs-not-using-ai-agents-data-entry
 date: 2026-02-28
 author: Riley Park

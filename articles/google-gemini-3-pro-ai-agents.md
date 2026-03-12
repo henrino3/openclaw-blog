@@ -1,5 +1,5 @@
 ---
-title: Google Gemini 3 Pro Just Changed Everything for AI Agents
+title: 'Google Gemini 3 Pro Just Changed Everything for AI Agents'
 slug: google-gemini-3-pro-ai-agents
 date: 2026-02-07
 author: Jake Morrison

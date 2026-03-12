@@ -1,5 +1,5 @@
 ---
-title: "OpenClaw vs Zapier AI: The Honest Comparison Nobody Asked For"
+title: 'OpenClaw vs Zapier AI: The Honest Comparison Nobody Asked For'
 slug: openclaw-vs-zapier-ai-comparison
 date: 2026-02-07
 author: Riley Chen

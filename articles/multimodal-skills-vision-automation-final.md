@@ -1,8 +1,6 @@
 ---
-title: "Beyond the Text Box: Vision-Driven Automation with OpenClaw"
-heroImage: "/hero-multimodal-skills-vision-automation-final.png"
-heroImagePublic: "/images/hero-multimodal-skills-vision-automation-final.png"
-heroImageAstro: "../../assets/hero-multimodal-skills-vision-automation-final.png"
+title: 'Beyond the Text Box: Vision-Driven Automation with OpenClaw'
+heroImage: "/images/hero-multimodal-skills-vision-automation-final.png"
 ---
 # Beyond the Text Box: Vision-Driven Automation with OpenClaw
 

@@ -1,6 +1,6 @@
 ---
-title: "AI Agents for Brand Management: Protecting & Growing Your Brand in 2026"
-description: "How AI agents are transforming brand management with 24/7 monitoring, sentiment analysis, and automated crisis detection. The complete guide for brand teams."
+title: 'AI Agents for Brand Management: Protecting & Growing Your Brand in 2026'
+description: 'How AI agents are transforming brand management with 24/7 monitoring, sentiment analysis, and automated crisis detection. The complete guide for brand teams.'
 author: "Jennifer Williams"
 author_title: "Chief Brand Officer"
 date: "2026-02-27"

@@ -1,5 +1,5 @@
 ---
-title: "How to Build a Slack AI Agent That Actually Works"
+title: 'How to Build a Slack AI Agent That Actually Works'
 slug: slack-ai-agent-integration-tutorial
 date: 2026-02-07
 author: Sam Okafor

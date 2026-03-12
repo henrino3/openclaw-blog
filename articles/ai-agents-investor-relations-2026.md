@@ -1,6 +1,6 @@
 ---
-title: "AI Agents for Investor Relations: Automating Stakeholder Communication in 2026"
-description: "How AI agents are transforming investor relations with automated updates, intelligent Q&A, and proactive stakeholder management. Strategies for public and private companies."
+title: 'AI Agents for Investor Relations: Automating Stakeholder Communication in 2026'
+description: 'How AI agents are transforming investor relations with automated updates, intelligent Q&A, and proactive stakeholder management. Strategies for public and private companies.'
 author: "Michael Chen"
 author_title: "VP of Investor Relations"
 date: "2026-02-27"

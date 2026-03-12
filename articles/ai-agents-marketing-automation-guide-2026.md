@@ -1,10 +1,10 @@
 ---
-title: "AI Agents for Marketing Automation: The Complete 2026 Playbook"
+title: 'AI Agents for Marketing Automation: The Complete 2026 Playbook'
 author: "Priya Sharma"
 date: "2026-02-18"
 category: "Marketing"
 tags: ["AI agents", "marketing automation", "growth", "personalization"]
-description: "How AI agents are transforming marketing automation from static campaigns to intelligent, adaptive customer journeys that convert at scale."
+description: 'How AI agents are transforming marketing automation from static campaigns to intelligent, adaptive customer journeys that convert at scale.'
 ---
 
 # AI Agents for Marketing Automation: The Complete 2026 Playbook

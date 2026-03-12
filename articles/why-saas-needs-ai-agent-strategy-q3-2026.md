@@ -1,5 +1,5 @@
 ---
-title: "Why Every SaaS Company Needs an AI Agent Strategy by Q3 2026"
+title: 'Why Every SaaS Company Needs an AI Agent Strategy by Q3 2026'
 slug: why-saas-needs-ai-agent-strategy-q3-2026
 date: 2026-02-28
 author: Dr. Elena Vasquez

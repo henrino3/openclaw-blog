@@ -1,8 +1,6 @@
 ---
-title: "Skills That Spawn Skills: Meta-Automation in OpenClaw"
-heroImage: "/hero-skills-that-spawn-skills.png"
-heroImagePublic: "/images/hero-skills-that-spawn-skills.png"
-heroImageAstro: "../../assets/hero-skills-that-spawn-skills.png"
+title: 'Skills That Spawn Skills: Meta-Automation in OpenClaw'
+heroImage: "/images/hero-skills-that-spawn-skills.png"
 ---
 # Skills That Spawn Skills: Meta-Automation in OpenClaw
 

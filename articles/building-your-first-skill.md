@@ -1,8 +1,6 @@
 ---
-title: "Building Your First OpenClaw Skill (Without Writing Much Code)"
-heroImage: "/hero-building-your-first-skill.png"
-heroImagePublic: "/images/hero-building-your-first-skill.png"
-heroImageAstro: "../../assets/hero-building-your-first-skill.png"
+title: 'Building Your First OpenClaw Skill (Without Writing Much Code)'
+heroImage: "/images/hero-building-your-first-skill.png"
 ---
 # Building Your First OpenClaw Skill (Without Writing Much Code)
 

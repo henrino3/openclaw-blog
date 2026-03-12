@@ -1,5 +1,5 @@
 ---
-title: "From Chatbot to Autonomous Agent: The Migration Guide"
+title: 'From Chatbot to Autonomous Agent: The Migration Guide'
 author: "Dr. Elena Vasquez"
 date: "2026-02-15"
 category: "Deep Dive"

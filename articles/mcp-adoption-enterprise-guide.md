@@ -1,5 +1,5 @@
 ---
-title: "MCP Adoption in Enterprise: The Complete Playbook"
+title: 'MCP Adoption in Enterprise: The Complete Playbook'
 slug: mcp-adoption-enterprise-guide
 date: 2026-02-07
 author: Dr. Elena Vasquez

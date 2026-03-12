@@ -1,6 +1,6 @@
 ---
-title: "AI Agents for Recruiting & Talent Acquisition: The 2026 Hiring Revolution"
-description: "How AI agents are transforming recruiting with automated sourcing, screening, and candidate engagement. Learn the strategies top talent teams use in 2026."
+title: 'AI Agents for Recruiting & Talent Acquisition: The 2026 Hiring Revolution'
+description: 'How AI agents are transforming recruiting with automated sourcing, screening, and candidate engagement. Learn the strategies top talent teams use in 2026.'
 author: "Sarah Mitchell"
 author_title: "Talent Acquisition Director"
 date: "2026-02-27"

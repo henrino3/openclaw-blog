@@ -1,5 +1,5 @@
 ---
-title: Building AI Agents for Email Management: A 2-Hour Build Guide
+title: 'Building AI Agents for Email Management: A 2-Hour Build Guide'
 slug: building-ai-agents-email-management
 date: 2026-02-17
 author: Sam Okafor

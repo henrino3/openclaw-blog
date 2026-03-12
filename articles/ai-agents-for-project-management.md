@@ -1,5 +1,5 @@
 ---
-title: AI Agents for Project Management: Stop Chasing Status Updates
+title: 'AI Agents for Project Management: Stop Chasing Status Updates'
 slug: ai-agents-for-project-management
 date: 2026-02-17
 author: Marcus Chen

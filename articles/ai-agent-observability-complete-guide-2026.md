@@ -1,5 +1,5 @@
 ---
-title: "The Complete Guide to AI Agent Observability in 2026"
+title: 'The Complete Guide to AI Agent Observability in 2026'
 author: "Priya Sharma"
 date: "2026-02-15"
 category: "Technical Guide"

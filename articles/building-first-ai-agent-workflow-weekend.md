@@ -1,5 +1,5 @@
 ---
-title: "Building Your First AI Agent Workflow: A Weekend Project"
+title: 'Building Your First AI Agent Workflow: A Weekend Project'
 slug: building-first-ai-agent-workflow-weekend
 date: 2026-02-28
 author: Sam Okafor

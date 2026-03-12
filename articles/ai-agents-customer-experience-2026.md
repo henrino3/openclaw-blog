@@ -1,6 +1,6 @@
 ---
-title: "AI Agents for Customer Experience: Delivering Exceptional Service at Scale in 2026"
-description: "How AI agents are transforming customer experience with proactive support, personalized journeys, and 24/7 availability. Strategies for CX leaders."
+title: 'AI Agents for Customer Experience: Delivering Exceptional Service at Scale in 2026'
+description: 'How AI agents are transforming customer experience with proactive support, personalized journeys, and 24/7 availability. Strategies for CX leaders.'
 author: "David Park"
 author_title: "VP of Customer Experience"
 date: "2026-02-27"

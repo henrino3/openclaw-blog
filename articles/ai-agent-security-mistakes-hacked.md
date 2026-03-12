@@ -1,5 +1,5 @@
 ---
-title: 5 AI Agent Security Mistakes That Will Get You Hacked
+title: '5 AI Agent Security Mistakes That Will Get You Hacked'
 slug: ai-agent-security-mistakes-hacked
 date: 2026-02-07
 author: Priya Sharma

@@ -1,10 +1,10 @@
 ---
-title: "AI Agents for Project Management: The 2026 Playbook for Autonomous Teams"
+title: 'AI Agents for Project Management: The 2026 Playbook for Autonomous Teams'
 author: "Riley Chen"
 date: "2026-02-18"
 category: "Productivity"
 tags: ["AI agents", "project management", "team coordination", "automation"]
-description: "How AI agents are transforming project management from manual coordination to intelligent orchestration, reducing meetings and blocking bottlenecks."
+description: 'How AI agents are transforming project management from manual coordination to intelligent orchestration, reducing meetings and blocking bottlenecks.'
 ---
 
 # AI Agents for Project Management: The 2026 Playbook for Autonomous Teams

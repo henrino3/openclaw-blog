@@ -1,10 +1,10 @@
 ---
-title: "AI Agents for Ecommerce: Hyper-Personalization at Scale in 2026"
+title: 'AI Agents for Ecommerce: Hyper-Personalization at Scale in 2026'
 author: "Marcus Chen"
 date: "2026-02-18"
 category: "Ecommerce"
 tags: ["AI agents", "ecommerce", "personalization", "customer experience"]
-description: "How AI agents are revolutionizing ecommerce by delivering hyper-personalized experiences that boost conversion and customer loyalty."
+description: 'How AI agents are revolutionizing ecommerce by delivering hyper-personalized experiences that boost conversion and customer loyalty.'
 ---
 
 # AI Agents for Ecommerce: Hyper-Personalization at Scale in 2026

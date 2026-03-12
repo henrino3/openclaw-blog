@@ -1,5 +1,5 @@
 ---
-title: "GPT-5 vs Claude Opus 4 vs Gemini 3 Pro: Which Model Powers the Best AI Agents?"
+title: 'GPT-5 vs Claude Opus 4 vs Gemini 3 Pro: Which Model Powers the Best AI Agents?'
 slug: gpt5-vs-claude-opus4-vs-gemini3-agents-comparison
 date: 2026-02-28
 author: Marcus Chen

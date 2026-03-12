@@ -1,5 +1,5 @@
 ---
-title: "How AI Agents Are Transforming Customer Support in 2026"
+title: 'How AI Agents Are Transforming Customer Support in 2026'
 slug: ai-agents-transforming-customer-support-2026
 date: 2026-02-28
 author: Jake Morrison

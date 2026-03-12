@@ -1,8 +1,6 @@
 ---
-title: "From Cron Jobs to Autonomous Agents: Building Reliable Background Work"
-heroImage: "/hero-from-cron-jobs-to-autonomous-agents.png"
-heroImagePublic: "/images/hero-from-cron-jobs-to-autonomous-agents.png"
-heroImageAstro: "../../assets/hero-from-cron-jobs-to-autonomous-agents.png"
+title: 'From Cron Jobs to Autonomous Agents: Building Reliable Background Work'
+heroImage: "/images/hero-from-cron-jobs-to-autonomous-agents.png"
 ---
 # From Cron Jobs to Autonomous Agents: Building Reliable Background Work
 

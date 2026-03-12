@@ -1,5 +1,5 @@
 ---
-title: "AI Coding Assistants Compared: What Actually Ships Code in 2026"
+title: 'AI Coding Assistants Compared: What Actually Ships Code in 2026'
 slug: ai-coding-assistants-compared-2026
 date: 2026-02-07
 author: Marcus Chen

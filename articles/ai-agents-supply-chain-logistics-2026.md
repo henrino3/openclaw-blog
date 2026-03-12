@@ -1,6 +1,6 @@
 ---
-title: "AI Agents for Supply Chain & Logistics: The 2026 Operations Revolution"
-description: "How AI agents are transforming supply chain visibility, demand forecasting, and logistics operations in 2026. Real implementation guide with code examples."
+title: 'AI Agents for Supply Chain & Logistics: The 2026 Operations Revolution'
+description: 'How AI agents are transforming supply chain visibility, demand forecasting, and logistics operations in 2026. Real implementation guide with code examples.'
 author: "Michael Torres"
 authorBio: "Supply Chain Technology Consultant with 15 years experience in logistics automation and operations optimization."
 date: "2026-02-27"

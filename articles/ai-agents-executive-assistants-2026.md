@@ -1,6 +1,6 @@
 ---
-title: "AI Agents for Executive Assistants: The 2026 Personal Productivity Revolution"
-description: "How AI agents are transforming executive productivity in 2026. From calendar management to inbox zero, real implementation guide with code examples."
+title: 'AI Agents for Executive Assistants: The 2026 Personal Productivity Revolution'
+description: 'How AI agents are transforming executive productivity in 2026. From calendar management to inbox zero, real implementation guide with code examples.'
 author: "Sarah Johnson"
 authorBio: "Executive Productivity Coach and former Chief of Staff at three Fortune 500 companies."
 date: "2026-02-27"

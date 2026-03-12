@@ -1,5 +1,5 @@
 ---
-title: "How to Build an AI Agent That Writes Like You"
+title: 'How to Build an AI Agent That Writes Like You'
 author: "Riley Chen"
 date: "2026-02-15"
 category: "Tutorial"

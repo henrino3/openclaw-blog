@@ -1,6 +1,6 @@
 ---
-title: "AI Agents for IT Operations: The 2026 Guide to Autonomous Infrastructure"
-description: "How AI agents are transforming IT operations with self-healing systems, predictive maintenance, and automated incident response. Complete guide for IT leaders."
+title: 'AI Agents for IT Operations: The 2026 Guide to Autonomous Infrastructure'
+description: 'How AI agents are transforming IT operations with self-healing systems, predictive maintenance, and automated incident response. Complete guide for IT leaders.'
 author: "Robert Kim"
 author_title: "VP of Infrastructure"
 date: "2026-02-27"

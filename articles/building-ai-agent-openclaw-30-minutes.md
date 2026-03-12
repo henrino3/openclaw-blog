@@ -1,5 +1,5 @@
 ---
-title: Building Your First AI Agent with OpenClaw in 30 Minutes
+title: 'Building Your First AI Agent with OpenClaw in 30 Minutes'
 slug: building-ai-agent-openclaw-30-minutes
 date: 2026-02-07
 author: Sam Okafor
